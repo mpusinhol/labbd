@@ -1,0 +1,4 @@
+-- Rodrigo Weigert - Nº USP 8937503
+-- Matheus Pusinhol - Nº USP ???????
+-- SCC0241 – Laboratório de Bases de Dados - Turma 3
+-- Trabalho Prático 1  - Script de Criação 
